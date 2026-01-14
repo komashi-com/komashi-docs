@@ -4,7 +4,7 @@ This guide explains how to configure the basic settings of your provider account
 
 ## 1. Access the Admin Dashboard
 Log in to the **Admin Dashboard**.  
-<img src="/assets/images/admin-dashboard-settings.png" style="max-height:600px; width:auto;" alt="Admin Dashboard" />
+![Admin Dashboard](/assets/images/admin-dashboard-settings.png)
 
 ## 2. Open Basic Settings
 Click **Settings** → **Basic** from the left sidebar.  
