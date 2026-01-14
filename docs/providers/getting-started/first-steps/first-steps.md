@@ -48,5 +48,3 @@ If the problem persists, contact support.
 
 ## Related Articles
 
-- [Login and Security](./login-and-security.md)  
-- [Managing Your Profile](../2-user-guide/managing-profile.md)
