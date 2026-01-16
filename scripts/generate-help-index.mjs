@@ -29,8 +29,7 @@ function firstN(text, n = 250) {
 // Ha nálad custom routeBasePath van, itt kell igazítani.
 function toDocUrl(relPath) {
     const withoutExt = relPath.replace(/\.(md|mdx)$/i, "");
-    // pl: billing/cancel-subscription -> /docs/billing/cancel-subscription
-    return `/docs/${withoutExt}`;
+    return `/${withoutExt}`;
 }
 
 const files = await fg(["**/*.md", "**/*.mdx"], { cwd: DOCS_DIR });

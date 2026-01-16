@@ -3,14 +3,14 @@
     {
       "q": "Where can i find my customers?",
       "a": "Here is the long explanation of the customers...",
-      "url": "/docs/providers/provider-guide/common-use-cases/customers"
+      "url": "/providers/provider-guide/common-use-cases/customers"
     }
   ],
   "subscriptions": [
     {
       "q": "How do I cancel a subscription?",
       "a": "Here is the long explanation of the subscriptions...",
-      "url": "/docs/providers/provider-guide/common-use-cases/subscriptions"
+      "url": "/providers/provider-guide/common-use-cases/subscriptions"
     }
   ]
 }
