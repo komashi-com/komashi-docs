@@ -1,3 +1,9 @@
+---
+title: Welcome to the Komashi Documentation
+tags: [dashboard]
+question: "How to use Komashi dashboard?"
+---
+
 # Welcome to the Komashi Documentation
 
 Welcome to the official **Komashi Platform Documentation** — your complete guide to using, managing, and integrating our system.

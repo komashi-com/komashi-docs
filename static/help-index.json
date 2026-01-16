@@ -1,4 +1,11 @@
 {
+  "dashboard": [
+    {
+      "q": "How to use Komashi dashboard?",
+      "a": "Welcome to the Komashi Documentation Welcome to the official Komashi Platform Documentation — your complete guide to using, managing, and integrating our system. Whether you’re a new user, a system administrator, or a partner, you’ll find everything…",
+      "url": "/providers/getting-started/getting-started"
+    }
+  ],
   "customers": [
     {
       "q": "Where can i find my customers?",
