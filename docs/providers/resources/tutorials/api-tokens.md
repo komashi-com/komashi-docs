@@ -1,3 +1,8 @@
+---
+title: Create API key
+tags: [API]
+question: "How do I create API key?"
+---
 # Create API Key
 
 API tokens allow third-party services to authenticate with the platform on your behalf.

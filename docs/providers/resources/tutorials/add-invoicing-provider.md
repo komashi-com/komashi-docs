@@ -1,3 +1,8 @@
+---
+title: Add Invoicing Provider
+tags: [Invoicing]
+question: "How do I add invoicing provider?"
+---
 # Add Invoicing Provider
 
 Manage and configure your available invoicing providers in the Financial Settings section.

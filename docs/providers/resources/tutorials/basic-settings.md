@@ -1,3 +1,8 @@
+---
+title: Basic Settings
+tags: [Setting]
+question: "How can I edit my basic settings?"
+---
 # Basic Settings
 
 This guide explains how to configure the basic settings of your provider account in the Admin Dashboard.

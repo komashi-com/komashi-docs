@@ -1,3 +1,8 @@
+---
+title: Coupon Management
+tags: [Coupon]
+question: "How do I Create Coupon?"
+---
 # Coupon Management
 
 This guide explains how to create, edit, and delete discount coupons in the Admin Dashboard.

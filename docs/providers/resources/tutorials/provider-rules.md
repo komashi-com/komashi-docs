@@ -1,3 +1,8 @@
+---
+title: Provider Rules
+tags: [Provider]
+question: "How can I delet a service?"
+---
 # Provider Rules
 
 ## Plan Management
