@@ -1,6 +1,6 @@
 ---
 title: Set Up Analytics
-tags: [Tracking]
+tags: [analytic-settings, provider-advanced-settings]
 question: "How can I set up Google Analytics?"
 ---
 # Set Up Analytics

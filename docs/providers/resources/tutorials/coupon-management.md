@@ -1,6 +1,6 @@
 ---
 title: Coupon Management
-tags: [Coupon]
+tags: [coupon-settings]
 question: "How do I Create Coupon?"
 ---
 # Coupon Management

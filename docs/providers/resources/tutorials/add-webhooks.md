@@ -1,6 +1,6 @@
 ---
 title: Add Webhooks
-tags: [Webhooks]
+tags: [webhook-settings]
 question: "How do I add webhooks?"
 ---
 # Webhooks

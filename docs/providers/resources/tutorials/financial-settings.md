@@ -1,6 +1,6 @@
 ---
 title: Financial Settings
-tags: [Financial]
+tags: [financial-settings]
 question: "Can I edit default Currency?"
 ---
 # Financial Settings

@@ -1,6 +1,6 @@
 ---
 title: Create API key
-tags: [API]
+tags: [api-settings]
 question: "How do I create API key?"
 ---
 # Create API Key

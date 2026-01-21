@@ -1,6 +1,6 @@
 ---
 title: Basic Settings
-tags: [Setting]
+tags: [provider-basic-settings]
 question: "How can I edit my basic settings?"
 ---
 # Basic Settings

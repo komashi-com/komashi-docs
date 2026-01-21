@@ -1,6 +1,6 @@
 ---
 title: Payment Validation
-tags: [Financial, Payments]
+tags: [financial-settings, provider-basic-settings]
 question: "Why do I need to validate my bank card?"
 ---
 # Payment Validation

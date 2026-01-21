@@ -1,6 +1,6 @@
 ---
 title: Add Services
-tags: [Services]
+tags: [provider-services, provider-basic-settings]
 question: "How do I add services?"
 ---
 # Add Services

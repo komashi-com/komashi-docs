@@ -1,6 +1,6 @@
 ---
 title: Add Payment Provider
-tags: [Payment]
+tags: [payment-method-install, payment-method]
 question: "How do I add payment provider?"
 ---
 # Add Payment Provider

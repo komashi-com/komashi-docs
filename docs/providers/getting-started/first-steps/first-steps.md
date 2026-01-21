@@ -1,3 +1,8 @@
+---
+title: First Steps
+tags: [provider-basic-settings]
+question: "How can I set up my Komashi account?"
+---
 # Account Setup
 
 This guide explains how to create and activate your Komashi account.

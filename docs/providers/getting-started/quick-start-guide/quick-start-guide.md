@@ -1,6 +1,6 @@
 ---
 title:  Quick Start Guide
-tags: [First Steps]
+tags: [provider-basic-settings]
 question: "Komashi trying to charge me €1"
 ---
 # Quick Start Guide

@@ -1,6 +1,6 @@
 ---
 title: Edit Pricing
-tags: [Pricing]
+tags: [provider-basic-settings, financial-settings]
 question: "Can I edit pricing after I set up a service?"
 ---
 # Edit Pricing

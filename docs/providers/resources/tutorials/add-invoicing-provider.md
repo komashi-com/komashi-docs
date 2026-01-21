@@ -1,6 +1,6 @@
 ---
 title: Add Invoicing Provider
-tags: [Invoicing]
+tags: [invoice-method-install, invoice-methods]
 question: "How do I add invoicing provider?"
 ---
 # Add Invoicing Provider
