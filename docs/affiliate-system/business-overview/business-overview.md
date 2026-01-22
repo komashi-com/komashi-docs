@@ -1,3 +1,8 @@
+---
+title: Komashi Affiliate Business Overview
+tags: [affiliate-system]
+question: "How affiliate system works?"
+---
 # Business Overview
 
 ## Komashi Platform Overview

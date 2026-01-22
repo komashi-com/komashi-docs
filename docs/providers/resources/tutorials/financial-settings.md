@@ -1,3 +1,8 @@
+---
+title: Financial Settings
+tags: [financial-settings]
+question: "Can I edit default Currency?"
+---
 # Financial Settings
 
 Manage currency and payment preferences.

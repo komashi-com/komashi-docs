@@ -1,3 +1,8 @@
+---
+title: Add Payment Provider
+tags: [payment-method-install, payment-method]
+question: "How do I add payment provider?"
+---
 # Add Payment Provider
 
 Manage and configure your available payment providers in the Financial Settings section.

@@ -1,4 +1,8 @@
-
+---
+title: Set Up Analytics
+tags: [analytic-settings, provider-advanced-settings]
+question: "How can I set up Google Analytics?"
+---
 # Set Up Analytics
 
 Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs.

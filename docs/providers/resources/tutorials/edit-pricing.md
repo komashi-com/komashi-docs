@@ -1,3 +1,8 @@
+---
+title: Edit Pricing
+tags: [provider-basic-settings, financial-settings]
+question: "Can I edit pricing after I set up a service?"
+---
 # Edit Pricing
 
 This guide explains how to edit the pricing of your services in the admin dashboard.

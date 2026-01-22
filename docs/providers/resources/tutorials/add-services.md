@@ -1,3 +1,8 @@
+---
+title: Add Services
+tags: [provider-services, provider-basic-settings]
+question: "How do I add services?"
+---
 # Add Services
 
 This guide explains how to add a new service in the Admin Dashboard.

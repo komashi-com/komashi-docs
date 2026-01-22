@@ -1,3 +1,8 @@
+---
+title: Provider Rules
+tags: [provider-advanced-settings]
+question: "How can I delet a service?"
+---
 # Provider Rules
 
 ## Plan Management

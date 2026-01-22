@@ -1,3 +1,8 @@
+---
+title: Komashi Affiliate System
+tags: [affiliate-system]
+question: "What is the partner program?"
+---
 # Partner Program
 
 From your profile, navigate to the **Partner Program** menu to view the users you have invited.
