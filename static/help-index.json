@@ -1,4 +1,45 @@
 {
+  "affiliate-system": [
+    {
+      "q": "How affiliate system works?",
+      "a": "Business Overview Komashi Platform Overview Komashi is designed to serve small and medium-sized businesses around 300.000USD in annual revenue. Getting Started - Businesses can start using Komashi for free - There are no upfront fees - Costs are only…",
+      "url": "/affiliate-system/business-overview/business-overview"
+    },
+    {
+      "q": "What is the partner program?",
+      "a": "Partner Program From your profile, navigate to the Partner Program menu to view the users you have invited. When your payout balance reaches the threshold, select one of the invited profiles and click the Start process button to initiate the payout p…",
+      "url": "/affiliate-system/affiliate-system"
+    }
+  ],
+  "Support": [
+    {
+      "q": "How can I report a problem or bug?",
+      "a": "Report an Issue Have you encountered a problem while using the platform? You can report issues directly to our support team. --- How to Report a Problem 1. Go to the Komashi Help Center. 2. Select the Support and Chat option. 3. Describe the issue yo…",
+      "url": "/customers/help-support/report-issue/report-issue"
+    },
+    {
+      "q": "Where can I get help or contact support?",
+      "a": "Help & Support This guide explains how to access help, documentation, and customer support in the Komashi platform. --- Accessing Help and Support 1. Log in to the Komashi Control Center. 2. In the top navigation bar, you will find the following opti…",
+      "url": "/customers/help-support/help-support"
+    }
+  ],
+  "Customers": [
+    {
+      "q": "How can I report a problem or bug?",
+      "a": "Report an Issue Have you encountered a problem while using the platform? You can report issues directly to our support team. --- How to Report a Problem 1. Go to the Komashi Help Center. 2. Select the Support and Chat option. 3. Describe the issue yo…",
+      "url": "/customers/help-support/report-issue/report-issue"
+    },
+    {
+      "q": "Where can I find my customers?",
+      "a": "Customers This guide explains where and how you can view and manage your customers as a provider. --- Accessing Customers 1. Log in to the Komashi Control Center. 2. Select the provider whose customers you want to view. 3. From the left-side navigati…",
+      "url": "/providers/provider-guide/common-use-cases/customers"
+    },
+    {
+      "q": "Where can I get help or contact support?",
+      "a": "Help & Support This guide explains how to access help, documentation, and customer support in the Komashi platform. --- Accessing Help and Support 1. Log in to the Komashi Control Center. 2. In the top navigation bar, you will find the following opti…",
+      "url": "/customers/help-support/help-support"
+    }
+  ],
   "dashboard": [
     {
       "q": "How to use Komashi dashboard?",
@@ -6,11 +47,63 @@
       "url": "/providers/getting-started/getting-started"
     }
   ],
-  "customers": [
+  "provider-basic-settings": [
     {
-      "q": "Where can i find my customers?",
-      "a": "Here is the long explanation of the customers...",
-      "url": "/providers/provider-guide/common-use-cases/customers"
+      "q": "Can I change my logo?",
+      "a": "Change Logo Yes, you can change your logo in the Basic Settings section. Video guide <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8qSUzML6Yy0?si=1QEypKsOJOi5CCBj\" title=\"YouTube video player\" frameborder=\"0\" allow=\"acceleromete…",
+      "url": "/providers/resources/faq/change-logo"
+    },
+    {
+      "q": "Can I edit pricing after I set up a service?",
+      "a": "Edit Pricing This guide explains how to edit the pricing of your services in the admin dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/asse…",
+      "url": "/providers/resources/tutorials/edit-pricing"
+    },
+    {
+      "q": "How can I edit my basic settings?",
+      "a": "Basic Settings This guide explains how to configure the basic settings of your provider account in the Admin Dashboard. 1. Access the Admin Dashboard Log in to the Admin Dashboard. ![Admin Dashboard](/assets/images/admin-dashboard-settings.png) 2. Op…",
+      "url": "/providers/resources/tutorials/basic-settings"
+    },
+    {
+      "q": "How can I set up my Komashi account?",
+      "a": "Account Setup This guide explains how to create and activate your Komashi account. --- Step 1 — Open the registration page Go to [https://komashi.com/register](https://komashi.com/register). On this page, you can start creating your account using you…",
+      "url": "/providers/getting-started/first-steps/first-steps"
+    },
+    {
+      "q": "How do I add services?",
+      "a": "Add Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/admin-…",
+      "url": "/providers/resources/tutorials/add-services"
+    },
+    {
+      "q": "How do I add user?",
+      "a": "Add User You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your account. --- 2.…",
+      "url": "/providers/resources/tutorials/add-user"
+    },
+    {
+      "q": "Komashi trying to charge me €1",
+      "a": "Quick Start Guide Create Your First Service This guide walks you through the essential steps required to publish your first service and enable payments on the platform. --- 1. Create Your First Service Start by creating your first service in the Admi…",
+      "url": "/providers/getting-started/quick-start-guide/quick-start-guide"
+    },
+    {
+      "q": "Why do I need to validate my bank card?",
+      "a": "Payment Validation To complete the validation process, you will need a bank card. During validation, the system uses Stripe to perform a card authentication: - A temporary charge of €1 will be made to your bank card - This charge is used only for car…",
+      "url": "/providers/getting-started/verification/verification"
+    }
+  ],
+  "financial-settings": [
+    {
+      "q": "Can I edit default Currency?",
+      "a": "Financial Settings Manage currency and payment preferences. --- Default Currency Primary currency for billing and transactions. EUR Update Currency This currency will be used as the default for all new services and transactions. Default Currency EUR…",
+      "url": "/providers/resources/tutorials/financial-settings"
+    },
+    {
+      "q": "Can I edit pricing after I set up a service?",
+      "a": "Edit Pricing This guide explains how to edit the pricing of your services in the admin dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/asse…",
+      "url": "/providers/resources/tutorials/edit-pricing"
+    },
+    {
+      "q": "Why do I need to validate my bank card?",
+      "a": "Payment Validation To complete the validation process, you will need a bank card. During validation, the system uses Stripe to perform a card authentication: - A temporary charge of €1 will be made to your bank card - This charge is used only for car…",
+      "url": "/providers/getting-started/verification/verification"
     }
   ],
   "subscriptions": [
@@ -18,6 +111,102 @@
       "q": "How do I cancel a subscription?",
       "a": "Here is the long explanation of the subscriptions...",
       "url": "/providers/provider-guide/common-use-cases/subscriptions"
+    }
+  ],
+  "invoice-method-install": [
+    {
+      "q": "How do I add invoicing provider?",
+      "a": "Add Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invo…",
+      "url": "/providers/resources/tutorials/add-invoicing-provider"
+    }
+  ],
+  "invoice-methods": [
+    {
+      "q": "How do I add invoicing provider?",
+      "a": "Add Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invo…",
+      "url": "/providers/resources/tutorials/add-invoicing-provider"
+    }
+  ],
+  "payment-method-install": [
+    {
+      "q": "How do I add payment provider?",
+      "a": "Add Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment prov…",
+      "url": "/providers/resources/tutorials/add-payment-provider"
+    }
+  ],
+  "payment-method": [
+    {
+      "q": "How do I add payment provider?",
+      "a": "Add Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment prov…",
+      "url": "/providers/resources/tutorials/add-payment-provider"
+    }
+  ],
+  "provider-services": [
+    {
+      "q": "How do I add services?",
+      "a": "Add Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/admin-…",
+      "url": "/providers/resources/tutorials/add-services"
+    }
+  ],
+  "permission-settings": [
+    {
+      "q": "How do I add user?",
+      "a": "Add User You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your account. --- 2.…",
+      "url": "/providers/resources/tutorials/add-user"
+    }
+  ],
+  "webhook-settings": [
+    {
+      "q": "How do I add webhooks?",
+      "a": "Webhooks Webhooks allow your system to receive real-time notifications whenever specific events occur in your account —for example, when a new subscription is created, a payment is processed, or an invoice is issued. --- Create a New Webhook Click Ne…",
+      "url": "/providers/resources/tutorials/add-webhooks"
+    }
+  ],
+  "widget-settings": [
+    {
+      "q": "How do I add widget?",
+      "a": "Add Widget In this guide, we will show you how to add a widget to your website. 1. Access Widget Settings Navigate to: Settings → Widget Settings Here you can view and manage all existing widgets connected to your provider account. --- 2. Add a New W…",
+      "url": "/providers/resources/tutorials/add-widget"
+    }
+  ],
+  "api-settings": [
+    {
+      "q": "How do I create API key?",
+      "a": "Create API Key API tokens allow third-party services to authenticate with the platform on your behalf. --- API Tokens Overview API tokens provide secure access for external systems, integrations, and automation scripts. Each token can be assigned spe…",
+      "url": "/providers/resources/tutorials/api-tokens"
+    }
+  ],
+  "coupon-settings": [
+    {
+      "q": "How do I Create Coupon?",
+      "a": "Coupon Management This guide explains how to create, edit, and delete discount coupons in the Admin Dashboard. --- 1. Access the Admin Dashboard Log in to the Admin Dashboard. ![Admin Dashboard](/assets/images/admin-dashboard-services.png) --- 2. Ope…",
+      "url": "/providers/resources/tutorials/coupon-management"
+    }
+  ],
+  "provider-advanced-settings": [
+    {
+      "q": "How can I delet a service?",
+      "a": "Provider Rules Plan Management Configure how customers can modify their subscription plans. Allow Plan Upgrades and Downgrades When enabled, both customers and administrators can switch between available plans. This allows flexibility for scaling up…",
+      "url": "/providers/resources/tutorials/provider-rules"
+    },
+    {
+      "q": "How can I set up Google Analytics?",
+      "a": "Set Up Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update you…",
+      "url": "/providers/resources/tutorials/set-up-analytics"
+    }
+  ],
+  "qr-settings": [
+    {
+      "q": "How does the QR code verification system work?",
+      "a": "QR Code Verification System Enable QR-based verification for non-digital services (e.g. in-person sessions, entries, classes, on-site usage). Enable QR system Customers can present a QR code, and providers can scan it with a phone (built-in camera/QR…",
+      "url": "/providers/resources/tutorials/qr-code-verifycation-system"
+    }
+  ],
+  "analytic-settings": [
+    {
+      "q": "How can I set up Google Analytics?",
+      "a": "Set Up Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update you…",
+      "url": "/providers/resources/tutorials/set-up-analytics"
     }
   ]
 }
