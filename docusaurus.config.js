@@ -1,11 +1,11 @@
 // @ts-check
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Komashi Docs',
   tagline: 'Official documentation for the Komashi platform',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   future: {
     v4: true,
@@ -44,13 +44,13 @@ const config = {
 
   themeConfig: {
     image: 'img/social-card.jpg',
-    colorMode: {respectPrefersColorScheme: true},
+    colorMode: { respectPrefersColorScheme: true },
 
     navbar: {
       title: 'Komashi',
       logo: {
         alt: 'Komashi Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -72,7 +72,7 @@ const config = {
       links: [
         {
           title: 'Docs',
-          items: [{label: 'Introduction', to: '/'}],
+          items: [{ label: 'Introduction', to: '/' }],
         },
         {
           title: 'More',
