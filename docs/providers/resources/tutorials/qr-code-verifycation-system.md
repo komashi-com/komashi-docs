@@ -11,4 +11,4 @@ Enable QR system
 Customers can present a QR code, and providers can scan it with a phone (built-in camera/QR reader) to verify subscription authenticity and manage service usage.
 
 
-![Turn On QR code verification system](/static/assets/images/qr-code-verification-system.gif)
+![Turn On QR code verification system](/assets/images/qr-code-verification-system.gif)
