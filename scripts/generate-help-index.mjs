@@ -1,6 +1,7 @@
 import fg from "fast-glob";
 import fs from "node:fs";
 import path from "node:path";
+import { pathToFileURL } from "node:url";
 import matter from "gray-matter";
 
 const DOCS_DIR = path.join(process.cwd(), "docs");
@@ -24,15 +25,48 @@ function firstN(text, n = 250) {
     return t.length <= n ? t : t.slice(0, n).trimEnd() + "…";
 }
 
-// NOTE: Docusaurus URL-ok: tipikusan /docs/<docId>,
-// de a legegyszerűbb: a fájl relatív útvonala alapján képezzük.
-// Ha nálad custom routeBasePath van, itt kell igazítani.
-function toDocUrl(relPath) {
+function stripSlashes(s) {
+    return String(s || "").replace(/^\/+|\/+$/g, "");
+}
+
+async function readDocusaurusRoutes() {
+    const configPath = path.join(process.cwd(), "docusaurus.config.js");
+    try {
+        const mod = await import(pathToFileURL(configPath).href);
+        const config = mod?.default ?? {};
+        const baseUrl = config?.baseUrl ?? "/";
+        let routeBasePath = "/docs";
+        const presets = Array.isArray(config?.presets) ? config.presets : [];
+        for (const preset of presets) {
+            if (!Array.isArray(preset)) continue;
+            if (preset[0] !== "classic") continue;
+            routeBasePath = preset?.[1]?.docs?.routeBasePath ?? routeBasePath;
+            break;
+        }
+        return { baseUrl, routeBasePath };
+    } catch {
+        return { baseUrl: "/", routeBasePath: "/docs" };
+    }
+}
+
+// Docusaurus URL: baseUrl + routeBasePath + docId (a fájl relatív útvonala)
+function toDocUrl(relPath, { baseUrl, routeBasePath }) {
     const withoutExt = relPath.replace(/\.(md|mdx)$/i, "");
-    return `/${withoutExt}`;
+    const normalizedRel = withoutExt.split(path.sep).join("/");
+    const parsed = path.parse(normalizedRel);
+    const parent = parsed.dir;
+    const lastDir = parent.split("/").filter(Boolean).slice(-1)[0] || "";
+    const docPath = parsed.name === lastDir ? parent : normalizedRel;
+    const parts = [
+        stripSlashes(baseUrl),
+        stripSlashes(routeBasePath),
+        stripSlashes(docPath),
+    ].filter(Boolean);
+    return `/${parts.join("/")}`;
 }
 
 const files = await fg(["**/*.md", "**/*.mdx"], { cwd: DOCS_DIR });
+const routes = await readDocusaurusRoutes();
 
 const index = {}; // tag -> array of {q,a,url}
 
@@ -49,17 +83,22 @@ for (const rel of files) {
 
     const text = stripMd(parsed.content);
     const answer = firstN(text, 250);
-    const url = toDocUrl(rel);
+    const url = toDocUrl(rel, routes);
 
     for (const tag of tags) {
         const t = String(tag);
         index[t] ??= [];
+        const key = `${String(question)}||${url}`;
+        if (!index[t]._dedupe) index[t]._dedupe = new Set();
+        if (index[t]._dedupe.has(key)) continue;
+        index[t]._dedupe.add(key);
         index[t].push({ q: String(question), a: answer, url });
     }
 }
 
 // opcionális: rendezés kérdés szerint
 for (const t of Object.keys(index)) {
+    if (index[t]._dedupe) delete index[t]._dedupe;
     index[t].sort((a, b) => a.q.localeCompare(b.q));
 }
 
