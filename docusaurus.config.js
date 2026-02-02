@@ -50,7 +50,7 @@ const config = {
       title: 'Komashi',
       logo: {
         alt: 'Komashi Logo',
-        src: 'img/logo.png',
+        src: 'img/favicon.png',
       },
       items: [
         {
