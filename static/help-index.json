@@ -11,6 +11,62 @@
       "url": "/komashi-docs/affiliate-system"
     }
   ],
+  "partner-program-billing-details-settings": [
+    {
+      "q": "Why do I need to provide billing details for payouts?",
+      "a": "Billing Details Settings To receive commissions from the Komashi Partner Program, you must provide your billing and payout details. These details are used exclusively for: - Processing partner payouts - Generating financial records - Ensuring complia…",
+      "url": "/komashi-docs/affiliate-system/billing-details"
+    }
+  ],
+  "partner-program-getting-started": [
+    {
+      "q": "How does the Komashi Partner Program work?",
+      "a": "Getting Started with the Komashi Partner Program Welcome to the Komashi Partner Program. This guide explains how the program works, how referrals and commissions are calculated, and how you can use built-in simulators to plan your earnings. --- How t…",
+      "url": "/komashi-docs/affiliate-system/getting-started"
+    }
+  ],
+  "partner-program-payouts": [
+    {
+      "q": "How can I track and request my partner payouts?",
+      "a": "Payouts The Payouts section allows you to track your commissions and request withdrawals. --- Payout Overview For each payout period, you can see: - Month The month the commission was generated. - Currency - Amount - Status Indicates whether the payo…",
+      "url": "/komashi-docs/affiliate-system/payout"
+    }
+  ],
+  "partner-program-referral-code-management": [
+    {
+      "q": "How can I change my referral code?",
+      "a": "Referral Code Management In this section, you can manage and update your personal referral code. Your referral code is used to link invited partners and providers to your account and track commissions automatically. --- Current Referral Code Your cur…",
+      "url": "/komashi-docs/affiliate-system/refferal-code-management"
+    }
+  ],
+  "partner-program-influencer-revenue-simulator": [
+    {
+      "q": "How much passive income can I earn from partners I invite?",
+      "a": "Influencer Revenue Simulator (Level 2) The Influencer Revenue Simulator helps you estimate the passive income you can earn from partners you invite into the Komashi Partner Program. This simulator focuses on Level 2 revenues, where your earnings come…",
+      "url": "/komashi-docs/affiliate-system/business-overview/influencer-reveneu-simulator"
+    }
+  ],
+  "partner-program-about-influencer-revenues": [
+    {
+      "q": "How can I earn passive income as an influencer?",
+      "a": "Influencer Revenues (Level 2) This guide explains how Level 2 (Influencer) commissions work and how you can earn passive income by building a partner network. --- What Are Level 2 Revenues? The real strength of the Komashi Partner Program lies in net…",
+      "url": "/komashi-docs/affiliate-system/business-overview/influencer-reveneu"
+    }
+  ],
+  "partner-program-partner-revenue-simulator": [
+    {
+      "q": "How much commission can I earn from providers I directly invite?",
+      "a": "Partner Revenue Simulator (Level 1) The Partner Revenue Simulator helps you estimate how much commission you can earn from providers you directly invite using your referral code. This simulator answers two key questions: - How much will Komashi cost…",
+      "url": "/komashi-docs/affiliate-system/business-overview/partner-revenue-simulator"
+    }
+  ],
+  "partner-program-about-partner-revenues": [
+    {
+      "q": "How much can I earn from providers I directly refer?",
+      "a": "Partner Revenues (Level 1) This guide explains how Level 1 partner commissions work and how much revenue you can earn from providers who register using your referral code. --- What Are Level 1 Revenues? When a provider signs up using your referral co…",
+      "url": "/komashi-docs/affiliate-system/business-overview/partner-revenues"
+    }
+  ],
   "Support": [
     {
       "q": "How can I report a problem or bug?",
@@ -45,6 +101,20 @@
       "q": "How to use Komashi dashboard?",
       "a": "Welcome to the Komashi Documentation Welcome to the official Komashi Platform Documentation — your complete guide to using, managing, and integrating our system. Whether you’re a new user, a system administrator, or a partner, you’ll find everything…",
       "url": "/komashi-docs/providers/getting-started"
+    }
+  ],
+  "partner-program-about-provider-fees": [
+    {
+      "q": "How are provider fees calculated in Komashi?",
+      "a": "Provider Fees This guide explains how Komashi pricing works for service providers, including the free usage tier and the tier-based fee calculation model. --- 1. Free Usage Tier – 10 Invoices per Month One of Komashi’s core principles is to support s…",
+      "url": "/komashi-docs/affiliate-system/business-overview/commission-rules"
+    }
+  ],
+  "partner-program-provider-fee-simulator": [
+    {
+      "q": "How can I estimate provider fees using the Komashi simulator?",
+      "a": "Provider Fee Simulator The Provider Fee Simulator helps you estimate how much it will cost a service provider to use Komashi based on their business model, pricing, and annual revenue. This tool is especially useful when: - You want to explain Komash…",
+      "url": "/komashi-docs/affiliate-system/customer-referral/reward-logic"
     }
   ],
   "provider-basic-settings": [
