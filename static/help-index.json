@@ -96,13 +96,6 @@
       "url": "/komashi-docs/customers/help-support"
     }
   ],
-  "dashboard": [
-    {
-      "q": "How to use Komashi dashboard?",
-      "a": "Welcome to the Komashi Documentation Welcome to the official Komashi Platform Documentation — your complete guide to using, managing, and integrating our system. Whether you’re a new user, a system administrator, or a partner, you’ll find everything…",
-      "url": "/komashi-docs/providers/getting-started"
-    }
-  ],
   "partner-program-about-provider-fees": [
     {
       "q": "How are provider fees calculated in Komashi?",
@@ -110,11 +103,25 @@
       "url": "/komashi-docs/affiliate-system/business-overview/commission-rules"
     }
   ],
+  "dashboard": [
+    {
+      "q": "How to use Komashi dashboard?",
+      "a": "Welcome to the Komashi Documentation Welcome to the official Komashi Platform Documentation — your complete guide to using, managing, and integrating our system. Whether you’re a new user, a system administrator, or a partner, you’ll find everything…",
+      "url": "/komashi-docs/providers/getting-started"
+    }
+  ],
   "partner-program-provider-fee-simulator": [
     {
       "q": "How can I estimate provider fees using the Komashi simulator?",
       "a": "Provider Fee Simulator The Provider Fee Simulator helps you estimate how much it will cost a service provider to use Komashi based on their business model, pricing, and annual revenue. This tool is especially useful when: - You want to explain Komash…",
       "url": "/komashi-docs/affiliate-system/customer-referral/reward-logic"
+    }
+  ],
+  "subscriptions": [
+    {
+      "q": "How do I cancel a subscription?",
+      "a": "Here is the long explanation of the subscriptions...",
+      "url": "/komashi-docs/providers/provider-guide/common-use-cases/subscriptions"
     }
   ],
   "provider-basic-settings": [
@@ -157,30 +164,6 @@
       "q": "Why do I need to validate my bank card?",
       "a": "Payment Validation To complete the validation process, you will need a bank card. During validation, the system uses Stripe to perform a card authentication: - A temporary charge of €1 will be made to your bank card - This charge is used only for car…",
       "url": "/komashi-docs/providers/getting-started/verification"
-    }
-  ],
-  "financial-settings": [
-    {
-      "q": "Can I edit default Currency?",
-      "a": "Financial Settings Manage currency and payment preferences. --- Default Currency Primary currency for billing and transactions. EUR Update Currency This currency will be used as the default for all new services and transactions. Default Currency EUR…",
-      "url": "/komashi-docs/providers/resources/tutorials/financial-settings"
-    },
-    {
-      "q": "Can I edit pricing after I set up a service?",
-      "a": "Edit Pricing This guide explains how to edit the pricing of your services in the admin dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/asse…",
-      "url": "/komashi-docs/providers/resources/tutorials/edit-pricing"
-    },
-    {
-      "q": "Why do I need to validate my bank card?",
-      "a": "Payment Validation To complete the validation process, you will need a bank card. During validation, the system uses Stripe to perform a card authentication: - A temporary charge of €1 will be made to your bank card - This charge is used only for car…",
-      "url": "/komashi-docs/providers/getting-started/verification"
-    }
-  ],
-  "subscriptions": [
-    {
-      "q": "How do I cancel a subscription?",
-      "a": "Here is the long explanation of the subscriptions...",
-      "url": "/komashi-docs/providers/provider-guide/common-use-cases/subscriptions"
     }
   ],
   "invoice-method-install": [
@@ -251,6 +234,23 @@
       "q": "How do I Create Coupon?",
       "a": "Coupon Management This guide explains how to create, edit, and delete discount coupons in the Admin Dashboard. --- 1. Access the Admin Dashboard Log in to the Admin Dashboard. ![Admin Dashboard](/assets/images/admin-dashboard-services.png) --- 2. Ope…",
       "url": "/komashi-docs/providers/resources/tutorials/coupon-management"
+    }
+  ],
+  "financial-settings": [
+    {
+      "q": "Can I edit default Currency?",
+      "a": "Financial Settings Manage currency and payment preferences. --- Default Currency Primary currency for billing and transactions. EUR Update Currency This currency will be used as the default for all new services and transactions. Default Currency EUR…",
+      "url": "/komashi-docs/providers/resources/tutorials/financial-settings"
+    },
+    {
+      "q": "Can I edit pricing after I set up a service?",
+      "a": "Edit Pricing This guide explains how to edit the pricing of your services in the admin dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/asse…",
+      "url": "/komashi-docs/providers/resources/tutorials/edit-pricing"
+    },
+    {
+      "q": "Why do I need to validate my bank card?",
+      "a": "Payment Validation To complete the validation process, you will need a bank card. During validation, the system uses Stripe to perform a card authentication: - A temporary charge of €1 will be made to your bank card - This charge is used only for car…",
+      "url": "/komashi-docs/providers/getting-started/verification"
     }
   ],
   "provider-advanced-settings": [
