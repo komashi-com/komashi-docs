@@ -39,6 +39,7 @@ const sidebars = {
     },
     'terms',
     'privacy',
+    'license',
   ],
 };
 
