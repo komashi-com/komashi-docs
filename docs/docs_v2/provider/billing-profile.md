@@ -1,4 +1,5 @@
 ---
+sidebar_position: 2
 title: Billing profiles
 tags: []
 question: "What is a billing profile?"
