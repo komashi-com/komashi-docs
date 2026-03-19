@@ -1,9 +1,9 @@
-
 ---
 title: User and Permissions
 tags: [provider-basic-settings, permission-settings]
 question: "How do I add user?"
 ---
+
 # User and Permissions
 
 You can add users to your provider account to help you manage your services.
