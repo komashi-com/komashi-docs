@@ -1,9 +1,9 @@
-
 ---
 title: API
 tags: [api-settings]
 question: "How do I create API key?"
 ---
+
 # Create API Key
 
 API tokens allow third-party services to authenticate with the platform on your behalf.
