@@ -3,280 +3,483 @@
     {
       "q": "How affiliate system works?",
       "a": "Business Overview Komashi Platform Overview Komashi is designed to serve small and medium-sized businesses around 300.000USD in annual revenue. Getting Started - Businesses can start using Komashi for free - There are no upfront fees - Costs are only…",
-      "url": "/komashi-docs/affiliate-system/business-overview"
-    },
-    {
-      "q": "What is the partner program?",
-      "a": "Partner Program From your profile, navigate to the Partner Program menu to view the users you have invited. When your payout balance reaches the threshold, select one of the invited profiles and click the Start process button to initiate the payout p…",
-      "url": "/komashi-docs/affiliate-system"
-    }
-  ],
-  "partner-program-billing-details-settings": [
-    {
-      "q": "Why do I need to provide billing details for payouts?",
-      "a": "Billing Details Settings To receive commissions from the Komashi Partner Program, you must provide your billing and payout details. These details are used exclusively for: - Processing partner payouts - Generating financial records - Ensuring complia…",
-      "url": "/komashi-docs/affiliate-system/billing-details"
-    }
-  ],
-  "partner-program-getting-started": [
-    {
-      "q": "How does the Komashi Partner Program work?",
-      "a": "Getting Started with the Komashi Partner Program Welcome to the Komashi Partner Program. This guide explains how the program works, how referrals and commissions are calculated, and how you can use built-in simulators to plan your earnings. --- How t…",
-      "url": "/komashi-docs/affiliate-system/getting-started"
-    }
-  ],
-  "partner-program-payouts": [
-    {
-      "q": "How can I track and request my partner payouts?",
-      "a": "Payouts The Payouts section allows you to track your commissions and request withdrawals. --- Payout Overview For each payout period, you can see: - Month The month the commission was generated. - Currency - Amount - Status Indicates whether the payo…",
-      "url": "/komashi-docs/affiliate-system/payout"
-    }
-  ],
-  "partner-program-referral-code-management": [
-    {
-      "q": "How can I change my referral code?",
-      "a": "Referral Code Management In this section, you can manage and update your personal referral code. Your referral code is used to link invited partners and providers to your account and track commissions automatically. --- Current Referral Code Your cur…",
-      "url": "/komashi-docs/affiliate-system/refferal-code-management"
-    }
-  ],
-  "partner-program-influencer-revenue-simulator": [
-    {
-      "q": "How much passive income can I earn from partners I invite?",
-      "a": "Influencer Revenue Simulator (Level 2) The Influencer Revenue Simulator helps you estimate the passive income you can earn from partners you invite into the Komashi Partner Program. This simulator focuses on Level 2 revenues, where your earnings come…",
-      "url": "/komashi-docs/affiliate-system/business-overview/influencer-reveneu-simulator"
-    }
-  ],
-  "partner-program-about-influencer-revenues": [
-    {
-      "q": "How can I earn passive income as an influencer?",
-      "a": "Influencer Revenues (Level 2) This guide explains how Level 2 (Influencer) commissions work and how you can earn passive income by building a partner network. --- What Are Level 2 Revenues? The real strength of the Komashi Partner Program lies in net…",
-      "url": "/komashi-docs/affiliate-system/business-overview/influencer-reveneu"
-    }
-  ],
-  "partner-program-partner-revenue-simulator": [
-    {
-      "q": "How much commission can I earn from providers I directly invite?",
-      "a": "Partner Revenue Simulator (Level 1) The Partner Revenue Simulator helps you estimate how much commission you can earn from providers you directly invite using your referral code. This simulator answers two key questions: - How much will Komashi cost…",
-      "url": "/komashi-docs/affiliate-system/business-overview/partner-revenue-simulator"
-    }
-  ],
-  "partner-program-about-partner-revenues": [
-    {
-      "q": "How much can I earn from providers I directly refer?",
-      "a": "Partner Revenues (Level 1) This guide explains how Level 1 partner commissions work and how much revenue you can earn from providers who register using your referral code. --- What Are Level 1 Revenues? When a provider signs up using your referral co…",
-      "url": "/komashi-docs/affiliate-system/business-overview/partner-revenues"
-    }
-  ],
-  "Support": [
-    {
-      "q": "How can I report a problem or bug?",
-      "a": "Report an Issue Have you encountered a problem while using the platform? You can report issues directly to our support team. --- How to Report a Problem 1. Go to the Komashi Help Center. 2. Select the Support and Chat option. 3. Describe the issue yo…",
-      "url": "/komashi-docs/customers/help-support/report-issue"
-    },
-    {
-      "q": "Where can I get help or contact support?",
-      "a": "Help & Support This guide explains how to access help, documentation, and customer support in the Komashi platform. --- Accessing Help and Support 1. Log in to the Komashi Control Center. 2. In the top navigation bar, you will find the following opti…",
-      "url": "/komashi-docs/customers/help-support"
-    }
-  ],
-  "Customers": [
-    {
-      "q": "How can I report a problem or bug?",
-      "a": "Report an Issue Have you encountered a problem while using the platform? You can report issues directly to our support team. --- How to Report a Problem 1. Go to the Komashi Help Center. 2. Select the Support and Chat option. 3. Describe the issue yo…",
-      "url": "/komashi-docs/customers/help-support/report-issue"
-    },
-    {
-      "q": "Where can I find my customers?",
-      "a": "Customers This guide explains where and how you can view and manage your customers as a provider. --- Accessing Customers 1. Log in to the Komashi Control Center. 2. Select the provider whose customers you want to view. 3. From the left-side navigati…",
-      "url": "/komashi-docs/providers/provider-guide/common-use-cases/customers"
-    },
-    {
-      "q": "Where can I get help or contact support?",
-      "a": "Help & Support This guide explains how to access help, documentation, and customer support in the Komashi platform. --- Accessing Help and Support 1. Log in to the Komashi Control Center. 2. In the top navigation bar, you will find the following opti…",
-      "url": "/komashi-docs/customers/help-support"
+      "url": "/komashi-docs/partner/business-overview"
     }
   ],
   "partner-program-about-provider-fees": [
     {
       "q": "How are provider fees calculated in Komashi?",
       "a": "Provider Fees This guide explains how Komashi pricing works for service providers, including the free usage tier and the tier-based fee calculation model. --- 1. Free Usage Tier – 10 Invoices per Month One of Komashi’s core principles is to support s…",
-      "url": "/komashi-docs/affiliate-system/business-overview/commission-rules"
+      "url": "/komashi-docs/partner/commission-rules"
     }
   ],
-  "dashboard": [
+  "partner-program-influencer-revenue-simulator": [
     {
-      "q": "How to use Komashi dashboard?",
-      "a": "Welcome to the Komashi Documentation Welcome to the official Komashi Platform Documentation — your complete guide to using, managing, and integrating our system. Whether you’re a new user, a system administrator, or a partner, you’ll find everything…",
-      "url": "/komashi-docs/providers/getting-started"
+      "q": "How much passive income can I earn from partners I invite?",
+      "a": "Influencer Revenue Simulator (Level 2) The Influencer Revenue Simulator helps you estimate the passive income you can earn from partners you invite into the Komashi Partner Program. This simulator focuses on Level 2 revenues, where your earnings come…",
+      "url": "/komashi-docs/partner/influencer-reveneu-simulator"
+    }
+  ],
+  "partner-program-about-influencer-revenues": [
+    {
+      "q": "How can I earn passive income as an influencer?",
+      "a": "Influencer Revenues (Level 2) This guide explains how Level 2 (Influencer) commissions work and how you can earn passive income by building a partner network. --- What Are Level 2 Revenues? The real strength of the Komashi Partner Program lies in net…",
+      "url": "/komashi-docs/partner/influencer-reveneu"
+    }
+  ],
+  "partner-program-partner-revenue-simulator": [
+    {
+      "q": "How much commission can I earn from providers I directly invite?",
+      "a": "Partner Revenue Simulator (Level 1) The Partner Revenue Simulator helps you estimate how much commission you can earn from providers you directly invite using your referral code. This simulator answers two key questions: - How much will Komashi cost…",
+      "url": "/komashi-docs/partner/partner-revenue-simulator"
+    }
+  ],
+  "partner-program-about-partner-revenues": [
+    {
+      "q": "How much can I earn from providers I directly refer?",
+      "a": "Partner Revenues (Level 1) This guide explains how Level 1 partner commissions work and how much revenue you can earn from providers who register using your referral code. --- What Are Level 1 Revenues? When a provider signs up using your referral co…",
+      "url": "/komashi-docs/partner/partner-revenues"
     }
   ],
   "partner-program-provider-fee-simulator": [
     {
       "q": "How can I estimate provider fees using the Komashi simulator?",
       "a": "Provider Fee Simulator The Provider Fee Simulator helps you estimate how much it will cost a service provider to use Komashi based on their business model, pricing, and annual revenue. This tool is especially useful when: - You want to explain Komash…",
-      "url": "/komashi-docs/affiliate-system/customer-referral/reward-logic"
+      "url": "/komashi-docs/partner/reward-logic"
     }
   ],
-  "subscriptions": [
+  "Support": [
     {
-      "q": "How do I cancel a subscription?",
-      "a": "Here is the long explanation of the subscriptions...",
-      "url": "/komashi-docs/providers/provider-guide/common-use-cases/subscriptions"
+      "q": "How can I report a problem or bug?",
+      "a": "Report an Issue Have you encountered a problem while using the platform? You can report issues directly to our support team. --- How to Report a Problem 1. Go to the Komashi Help Center. 2. Select the Support and Chat option. 3. Describe the issue yo…",
+      "url": "/komashi-docs/end-user/report-issue"
     }
   ],
-  "provider-basic-settings": [
+  "Customers": [
     {
-      "q": "Can I change my logo?",
-      "a": "Change Logo Yes, you can change your logo in the Basic Settings section. Video guide <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8qSUzML6Yy0?si=1QEypKsOJOi5CCBj\" title=\"YouTube video player\" frameborder=\"0\" allow=\"acceleromete…",
-      "url": "/komashi-docs/providers/resources/faq/change-logo"
+      "q": "How can I report a problem or bug?",
+      "a": "Report an Issue Have you encountered a problem while using the platform? You can report issues directly to our support team. --- How to Report a Problem 1. Go to the Komashi Help Center. 2. Select the Support and Chat option. 3. Describe the issue yo…",
+      "url": "/komashi-docs/end-user/report-issue"
     },
     {
-      "q": "Can I edit pricing after I set up a service?",
-      "a": "Edit Pricing This guide explains how to edit the pricing of your services in the admin dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/asse…",
-      "url": "/komashi-docs/providers/resources/tutorials/edit-pricing"
-    },
-    {
-      "q": "How can I edit my basic settings?",
-      "a": "Basic Settings This guide explains how to configure the basic settings of your provider account in the Admin Dashboard. 1. Access the Admin Dashboard Log in to the Admin Dashboard. ![Admin Dashboard](/assets/images/admin-dashboard-settings.png) 2. Op…",
-      "url": "/komashi-docs/providers/resources/tutorials/basic-settings"
-    },
-    {
-      "q": "How can I set up my Komashi account?",
-      "a": "Account Setup This guide explains how to create and activate your Komashi account. --- Step 1 — Open the registration page Go to [https://komashi.com/register](https://komashi.com/register). On this page, you can start creating your account using you…",
-      "url": "/komashi-docs/providers/getting-started/first-steps"
-    },
-    {
-      "q": "How do I add services?",
-      "a": "Add Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/admin-…",
-      "url": "/komashi-docs/providers/resources/tutorials/add-services"
-    },
-    {
-      "q": "How do I add user?",
-      "a": "Add User You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your account. --- 2.…",
-      "url": "/komashi-docs/providers/resources/tutorials/add-user"
-    },
-    {
-      "q": "Komashi trying to charge me €1",
-      "a": "Quick Start Guide Create Your First Service This guide walks you through the essential steps required to publish your first service and enable payments on the platform. --- 1. Create Your First Service Start by creating your first service in the Admi…",
-      "url": "/komashi-docs/providers/getting-started/quick-start-guide"
-    },
-    {
-      "q": "Why do I need to validate my bank card?",
-      "a": "Payment Validation To complete the validation process, you will need a bank card. During validation, the system uses Stripe to perform a card authentication: - A temporary charge of €1 will be made to your bank card - This charge is used only for car…",
-      "url": "/komashi-docs/providers/getting-started/verification"
+      "q": "Where can I find my customers?",
+      "a": "Customers This guide explains where and how you can view and manage your customers as a provider. --- Accessing Customers 1. Log in to the Komashi Control Center. 2. Select the provider whose customers you want to view. 3. From the left-side navigati…",
+      "url": "/komashi-docs/provider/customers"
     }
   ],
   "invoice-method-install": [
     {
       "q": "How do I add invoicing provider?",
       "a": "Add Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invo…",
-      "url": "/komashi-docs/providers/resources/tutorials/add-invoicing-provider"
+      "url": "/komashi-docs/resources/tutorials/add-invoicing-provider"
+    },
+    {
+      "q": "How do I add invoicing provider?",
+      "a": "Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invoicin…",
+      "url": "/komashi-docs/provider/Settings/09invoicing-providers"
     }
   ],
   "invoice-methods": [
     {
+      "q": "Can I modify my billing details later?",
+      "a": "Yes, you can modify your billing details later. Go to Settings → Financial/Settings and click the Edit Details button to modify your billing details.",
+      "url": "/komashi-docs/resources/faq/billing-data-modification"
+    },
+    {
+      "q": "Can I provide foreign billing details?",
+      "a": "Sure, you can provide foreign billing details. Go to Settings → Financial/Settings and click the Edit Details button to provide your billing details.",
+      "url": "/komashi-docs/resources/faq/foreign-billing-details"
+    },
+    {
       "q": "How do I add invoicing provider?",
       "a": "Add Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invo…",
-      "url": "/komashi-docs/providers/resources/tutorials/add-invoicing-provider"
+      "url": "/komashi-docs/resources/tutorials/add-invoicing-provider"
+    },
+    {
+      "q": "How do I add invoicing provider?",
+      "a": "Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invoicin…",
+      "url": "/komashi-docs/provider/Settings/09invoicing-providers"
+    },
+    {
+      "q": "Is there an invoice template or sample available?",
+      "a": "No, there is no invoice template or sample available. Choose the invoice method that suits you best during registration. Only the billing provider you select will be used.",
+      "url": "/komashi-docs/resources/faq/invoice-template"
+    },
+    {
+      "q": "When do I need to provide billing details – during registration or before payout?",
+      "a": "You can provide billing details during registration or before payout. Go to Settings → Financial/Settings and click the Edit Details button to provide your billing details. Important: If you don't provide billing details, you won't receive payouts.",
+      "url": "/komashi-docs/resources/faq/billing-data-timing"
     }
   ],
   "payment-method-install": [
     {
       "q": "How do I add payment provider?",
       "a": "Add Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment prov…",
-      "url": "/komashi-docs/providers/resources/tutorials/add-payment-provider"
+      "url": "/komashi-docs/resources/tutorials/add-payment-provider"
+    },
+    {
+      "q": "How do I add payment provider?",
+      "a": "Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment provider…",
+      "url": "/komashi-docs/provider/Settings/08payment-providers"
     }
   ],
   "payment-method": [
     {
       "q": "How do I add payment provider?",
       "a": "Add Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment prov…",
-      "url": "/komashi-docs/providers/resources/tutorials/add-payment-provider"
+      "url": "/komashi-docs/resources/tutorials/add-payment-provider"
+    },
+    {
+      "q": "How do I add payment provider?",
+      "a": "Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment provider…",
+      "url": "/komashi-docs/provider/Settings/08payment-providers"
     }
   ],
   "provider-services": [
     {
+      "q": "How can I delete my service?",
+      "a": "Go to Manage Services and choose the service you want to delete. Click the ... button. Then click Delete.",
+      "url": "/komashi-docs/resources/faq/delete-a-service"
+    },
+    {
       "q": "How do I add services?",
       "a": "Add Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/admin-…",
-      "url": "/komashi-docs/providers/resources/tutorials/add-services"
+      "url": "/komashi-docs/resources/tutorials/add-services"
+    },
+    {
+      "q": "How do I add services?",
+      "a": "Manage Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/adm…",
+      "url": "/komashi-docs/provider/Settings/03manage-services"
+    }
+  ],
+  "provider-basic-settings": [
+    {
+      "q": "Can I change my logo?",
+      "a": "Change Logo Yes, you can change your logo in the Basic Settings section. Video guide <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8qSUzML6Yy0?si=1QEypKsOJOi5CCBj\" title=\"YouTube video player\" frameborder=\"0\" allow=\"acceleromete…",
+      "url": "/komashi-docs/resources/faq/change-logo"
+    },
+    {
+      "q": "Can I edit pricing after I set up a service?",
+      "a": "Edit Pricing This guide explains how to edit the pricing of your services in the admin dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/asse…",
+      "url": "/komashi-docs/resources/tutorials/edit-pricing"
+    },
+    {
+      "q": "How can I edit my basic settings?",
+      "a": "Basic Settings This guide explains how to configure the basic settings of your provider account in the Admin Dashboard. 1. Access the Admin Dashboard Log in to the Admin Dashboard. ![Admin Dashboard](/assets/images/admin-dashboard-settings.png) 2. Op…",
+      "url": "/komashi-docs/resources/tutorials/basic-settings"
+    },
+    {
+      "q": "How can I edit my basic settings?",
+      "a": "Basic Settings This guide explains how to configure the basic settings of your provider account in the Admin Dashboard. 1. Access the Admin Dashboard Log in to the Admin Dashboard. ![Admin Dashboard](/assets/images/admin-dashboard-settings.png) 2. Op…",
+      "url": "/komashi-docs/provider/Settings/01basic"
+    },
+    {
+      "q": "How do I add services?",
+      "a": "Add Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/admin-…",
+      "url": "/komashi-docs/resources/tutorials/add-services"
+    },
+    {
+      "q": "How do I add services?",
+      "a": "Manage Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/adm…",
+      "url": "/komashi-docs/provider/Settings/03manage-services"
+    },
+    {
+      "q": "How do I add user?",
+      "a": "Add User You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your account. --- 2.…",
+      "url": "/komashi-docs/resources/tutorials/add-user"
+    },
+    {
+      "q": "How do I add user?",
+      "a": "User and Permissions You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your acco…",
+      "url": "/komashi-docs/provider/Settings/06user-and-permissions"
+    },
+    {
+      "q": "Is it mandatory to provide company billing details?",
+      "a": "Yes, it is mandatory to provide company billing details. You can provide your billing details in the Financial/Settings section.",
+      "url": "/komashi-docs/resources/faq/company-details-requirement"
+    },
+    {
+      "q": "What happens to my earned commission if I delete my account?",
+      "a": "If you delete your account, you will lose access to your dashboard and all associated data. Any earned but unpaid commission will be forfeited.",
+      "url": "/komashi-docs/resources/faq/account-deletion"
     }
   ],
   "permission-settings": [
     {
       "q": "How do I add user?",
       "a": "Add User You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your account. --- 2.…",
-      "url": "/komashi-docs/providers/resources/tutorials/add-user"
+      "url": "/komashi-docs/resources/tutorials/add-user"
+    },
+    {
+      "q": "How do I add user?",
+      "a": "User and Permissions You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your acco…",
+      "url": "/komashi-docs/provider/Settings/06user-and-permissions"
     }
   ],
   "webhook-settings": [
     {
       "q": "How do I add webhooks?",
       "a": "Webhooks Webhooks allow your system to receive real-time notifications whenever specific events occur in your account —for example, when a new subscription is created, a payment is processed, or an invoice is issued. --- Create a New Webhook Click Ne…",
-      "url": "/komashi-docs/providers/resources/tutorials/add-webhooks"
+      "url": "/komashi-docs/resources/tutorials/add-webhooks"
+    },
+    {
+      "q": "How do I add webhooks?",
+      "a": "Webhooks Webhooks allow your system to receive real-time notifications whenever specific events occur in your account —for example, when a new subscription is created, a payment is processed, or an invoice is issued. --- Create a New Webhook Click Ne…",
+      "url": "/komashi-docs/provider/Settings/11webhooks"
     }
   ],
   "widget-settings": [
     {
       "q": "How do I add widget?",
       "a": "Add Widget In this guide, we will show you how to add a widget to your website. 1. Access Widget Settings Navigate to: Settings → Widget Settings Here you can view and manage all existing widgets connected to your provider account. --- 2. Add a New W…",
-      "url": "/komashi-docs/providers/resources/tutorials/add-widget"
+      "url": "/komashi-docs/resources/tutorials/add-widget"
+    },
+    {
+      "q": "How do I add widget?",
+      "a": "Widget In this guide, we will show you how to add a widget to your website. 1. Access Widget Settings Navigate to: Settings → Widget Settings Here you can view and manage all existing widgets connected to your provider account. --- 2. Add a New Widge…",
+      "url": "/komashi-docs/provider/Settings/12widgets"
+    },
+    {
+      "q": "How do widgets work?",
+      "a": "You can use Komashi in your website as a widget. You can find the widget code in the Settings → Widget Settings section. You can customize the widget to match your website's design. You can also choose the widget's position on your website.",
+      "url": "/komashi-docs/resources/faq/widget-functionality"
     }
   ],
   "api-settings": [
     {
+      "q": "How can I modify API key permissions?",
+      "a": "In the API Settings section, you can modify the permissions of your API keys. Click on the API key you want to modify and select the permissions you want to modify. Choose which permissions this API key should have. Permissions control what actions t…",
+      "url": "/komashi-docs/resources/faq/api-key-permissions"
+    },
+    {
       "q": "How do I create API key?",
       "a": "Create API Key API tokens allow third-party services to authenticate with the platform on your behalf. --- API Tokens Overview API tokens provide secure access for external systems, integrations, and automation scripts. Each token can be assigned spe…",
-      "url": "/komashi-docs/providers/resources/tutorials/api-tokens"
+      "url": "/komashi-docs/resources/tutorials/api-tokens"
+    },
+    {
+      "q": "How do I create API key?",
+      "a": "Create API Key API tokens allow third-party services to authenticate with the platform on your behalf. --- API Tokens Overview API tokens provide secure access for external systems, integrations, and automation scripts. Each token can be assigned spe…",
+      "url": "/komashi-docs/provider/Settings/10api"
     }
   ],
   "coupon-settings": [
     {
+      "q": "Can I limit the number of times a coupon can be used after creation?",
+      "a": "Yes, you can limit the number of times a coupon can be used after creation. Go to Manage Coupons and click the Edit button next to the coupon you want to limit. Then click on Limit coupon usage button. Click on Update Coupon button to save your chang…",
+      "url": "/komashi-docs/resources/faq/limit-coupon-usage"
+    },
+    {
       "q": "How do I Create Coupon?",
       "a": "Coupon Management This guide explains how to create, edit, and delete discount coupons in the Admin Dashboard. --- 1. Access the Admin Dashboard Log in to the Admin Dashboard. ![Admin Dashboard](/assets/images/admin-dashboard-services.png) --- 2. Ope…",
-      "url": "/komashi-docs/providers/resources/tutorials/coupon-management"
+      "url": "/komashi-docs/resources/tutorials/coupon-management"
+    },
+    {
+      "q": "How do I Create Coupon?",
+      "a": "Coupon Management This guide explains how to create, edit, and delete discount coupons in the Admin Dashboard. --- 1. Access the Admin Dashboard Log in to the Admin Dashboard. ![Admin Dashboard](/assets/images/admin-dashboard-services.png) --- 2. Ope…",
+      "url": "/komashi-docs/provider/Settings/04coupon-management"
+    },
+    {
+      "q": "I don’t want to delete a coupon. Is it possible to disable it?",
+      "a": "Go to Manage Coupons and click the Edit button next to the coupon you want to disable. Then click on Disable this coupon button. Click on Update Coupon button to save your changes.",
+      "url": "/komashi-docs/resources/faq/disable-coupon"
     }
   ],
   "financial-settings": [
     {
+      "q": "Are payouts automatic or do I need to request them?",
+      "a": "The payouts are automatic. Choose your payment method in the Financial/Payment providers section and the payouts will be processed automatically if the provider has set up a payment method and has reached the minimum payout threshold.",
+      "url": "/komashi-docs/resources/faq/automatic-payouts"
+    },
+    {
       "q": "Can I edit default Currency?",
       "a": "Financial Settings Manage currency and payment preferences. --- Default Currency Primary currency for billing and transactions. EUR Update Currency This currency will be used as the default for all new services and transactions. Default Currency EUR…",
-      "url": "/komashi-docs/providers/resources/tutorials/financial-settings"
+      "url": "/komashi-docs/resources/tutorials/financial-settings"
+    },
+    {
+      "q": "Can I edit default Currency?",
+      "a": "Financial Settings Manage currency and payment preferences. --- Default Currency Primary currency for billing and transactions. EUR Update Currency This currency will be used as the default for all new services and transactions. Default Currency EUR…",
+      "url": "/komashi-docs/provider/Settings/07settings"
     },
     {
       "q": "Can I edit pricing after I set up a service?",
       "a": "Edit Pricing This guide explains how to edit the pricing of your services in the admin dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/asse…",
-      "url": "/komashi-docs/providers/resources/tutorials/edit-pricing"
+      "url": "/komashi-docs/resources/tutorials/edit-pricing"
     },
     {
-      "q": "Why do I need to validate my bank card?",
-      "a": "Payment Validation To complete the validation process, you will need a bank card. During validation, the system uses Stripe to perform a card authentication: - A temporary charge of €1 will be made to your bank card - This charge is used only for car…",
-      "url": "/komashi-docs/providers/getting-started/verification"
+      "q": "Can I modify my billing details later?",
+      "a": "Yes, you can modify your billing details later. Go to Settings → Financial/Settings and click the Edit Details button to modify your billing details.",
+      "url": "/komashi-docs/resources/faq/billing-data-modification"
+    },
+    {
+      "q": "Do billing detail changes affect an ongoing payout?",
+      "a": "No, billing detail changes do not affect an ongoing payout. The changes will take effect from the next billing cycle.",
+      "url": "/komashi-docs/resources/faq/billing-changes-impact"
+    },
+    {
+      "q": "Do I earn the same commission for new and existing customers?",
+      "a": "If you are using Komashi over 3 years, you will earn lower commission.",
+      "url": "/komashi-docs/resources/faq/new-vs-existing-customers"
+    },
+    {
+      "q": "How exactly is the commission calculated?",
+      "a": "Go to Komashi Subscription → View Details and you can see the commission calculation details. The first 5 invoices are free, then the commission is calculated as follows: - 5.5% from 0 – 50 000 000 HUF sales revenue - 4.5% from 50 000 001 – 100 000 0…",
+      "url": "/komashi-docs/resources/faq/commission-calculation"
+    },
+    {
+      "q": "In which currency will I receive my payout?",
+      "a": "You can receive your payout in any currency that your payment provider supports. You can choose the currency in the Settings → Financial Settings section.",
+      "url": "/komashi-docs/resources/faq/payout-currency"
+    },
+    {
+      "q": "Is it mandatory to provide company billing details?",
+      "a": "Yes, it is mandatory to provide company billing details. You can provide your billing details in the Financial/Settings section.",
+      "url": "/komashi-docs/resources/faq/company-details-requirement"
+    },
+    {
+      "q": "What happens if a payout fails?",
+      "a": "If a payout fails, you need to get in touch with your Payment Provider support to resolve the issue.",
+      "url": "/komashi-docs/resources/faq/failed-payout"
+    },
+    {
+      "q": "What happens to my earned commission if I delete my account?",
+      "a": "If you delete your account, you will lose access to your dashboard and all associated data. Any earned but unpaid commission will be forfeited.",
+      "url": "/komashi-docs/resources/faq/account-deletion"
+    },
+    {
+      "q": "When do I need to provide billing details – during registration or before payout?",
+      "a": "You can provide billing details during registration or before payout. Go to Settings → Financial/Settings and click the Edit Details button to provide your billing details. Important: If you don't provide billing details, you won't receive payouts.",
+      "url": "/komashi-docs/resources/faq/billing-data-timing"
     }
   ],
   "provider-advanced-settings": [
     {
       "q": "How can I delet a service?",
       "a": "Provider Rules Plan Management Configure how customers can modify their subscription plans. Allow Plan Upgrades and Downgrades When enabled, both customers and administrators can switch between available plans. This allows flexibility for scaling up…",
-      "url": "/komashi-docs/providers/resources/tutorials/provider-rules"
+      "url": "/komashi-docs/resources/tutorials/provider-rules"
+    },
+    {
+      "q": "How can I delet a service?",
+      "a": "Provider Rules Plan Management Configure how customers can modify their subscription plans. Allow Plan Upgrades and Downgrades When enabled, both customers and administrators can switch between available plans. This allows flexibility for scaling up…",
+      "url": "/komashi-docs/provider/Settings/02provider-rules"
     },
     {
       "q": "How can I set up Google Analytics?",
       "a": "Set Up Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update you…",
-      "url": "/komashi-docs/providers/resources/tutorials/set-up-analytics"
+      "url": "/komashi-docs/resources/tutorials/set-up-analytics"
+    },
+    {
+      "q": "How can I set up Google Analytics?",
+      "a": "Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update your Googl…",
+      "url": "/komashi-docs/provider/Settings/13analytics"
     }
   ],
   "qr-settings": [
     {
       "q": "How does the QR code verification system work?",
       "a": "QR Code Verification System Enable QR-based verification for non-digital services (e.g. in-person sessions, entries, classes, on-site usage). Enable QR system Customers can present a QR code, and providers can scan it with a phone (built-in camera/QR…",
-      "url": "/komashi-docs/providers/resources/tutorials/qr-code-verifycation-system"
+      "url": "/komashi-docs/resources/tutorials/qr-code-verifycation-system"
+    },
+    {
+      "q": "How does the QR code verification system work?",
+      "a": "QR Code Settings Enable QR-based verification for non-digital services (e.g. in-person sessions, entries, classes, on-site usage). Enable QR system Customers can present a QR code, and providers can scan it with a phone (built-in camera/QR reader) to…",
+      "url": "/komashi-docs/provider/Settings/05qr-code-settings"
     }
   ],
   "analytic-settings": [
     {
+      "q": "Can I download the data, for example as a CSV file?",
+      "a": "Inside the Komashi Control Center, you can't download the data as a CSV file.",
+      "url": "/komashi-docs/resources/faq/data-export"
+    },
+    {
+      "q": "Can I use custom measurements in Komashi?",
+      "a": "No, only the following measurements are available: - Google Analytics - Microsoft Clarity",
+      "url": "/komashi-docs/resources/faq/custom-analytics"
+    },
+    {
+      "q": "How can I enable Microsoft Clarity?",
+      "a": "Go to Settings → Analytic Settings and click the Edit tracking button. Then, add your Microsoft Clarity tracking ID to the Microsoft Clarity field and click the Save changes button.",
+      "url": "/komashi-docs/resources/faq/microsoft-clarity-integration"
+    },
+    {
       "q": "How can I set up Google Analytics?",
       "a": "Set Up Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update you…",
-      "url": "/komashi-docs/providers/resources/tutorials/set-up-analytics"
+      "url": "/komashi-docs/resources/tutorials/set-up-analytics"
+    },
+    {
+      "q": "How can I set up Google Analytics?",
+      "a": "Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update your Googl…",
+      "url": "/komashi-docs/provider/Settings/13analytics"
+    }
+  ],
+  "subscription-details": [
+    {
+      "q": "Do I earn the same commission for new and existing customers?",
+      "a": "If you are using Komashi over 3 years, you will earn lower commission.",
+      "url": "/komashi-docs/resources/faq/new-vs-existing-customers"
+    },
+    {
+      "q": "How exactly is the commission calculated?",
+      "a": "Go to Komashi Subscription → View Details and you can see the commission calculation details. The first 5 invoices are free, then the commission is calculated as follows: - 5.5% from 0 – 50 000 000 HUF sales revenue - 4.5% from 50 000 001 – 100 000 0…",
+      "url": "/komashi-docs/resources/faq/commission-calculation"
+    }
+  ],
+  "subscription": [
+    {
+      "q": "Do I earn the same commission for new and existing customers?",
+      "a": "If you are using Komashi over 3 years, you will earn lower commission.",
+      "url": "/komashi-docs/resources/faq/new-vs-existing-customers"
+    },
+    {
+      "q": "How exactly is the commission calculated?",
+      "a": "Go to Komashi Subscription → View Details and you can see the commission calculation details. The first 5 invoices are free, then the commission is calculated as follows: - 5.5% from 0 – 50 000 000 HUF sales revenue - 4.5% from 50 000 001 – 100 000 0…",
+      "url": "/komashi-docs/resources/faq/commission-calculation"
+    }
+  ],
+  "partner-program": [
+    {
+      "q": "Are there any country-based restrictions for the partner program?",
+      "a": "No, there are no country-based restrictions for the partner program.",
+      "url": "/komashi-docs/resources/faq/country-restrictions"
+    },
+    {
+      "q": "Can I join the partner program as an individual, or only as a company?",
+      "a": "You can join the partner program as an individual or as a company. Choose the option that suits you best during registration.",
+      "url": "/komashi-docs/resources/faq/individual-or-company-partner"
+    },
+    {
+      "q": "Can my commission be lost due to inactivity?",
+      "a": "No, your commission cannot be lost due to inactivity. However, if you don't provide billing details, you won't receive payouts.",
+      "url": "/komashi-docs/resources/faq/inactivity-consequences"
+    },
+    {
+      "q": "Is there a minimum activity requirement in the partner program?",
+      "a": "No, there is no minimum activity requirement in the partner program.",
+      "url": "/komashi-docs/resources/faq/minimum-activity-requirement"
+    },
+    {
+      "q": "Is there a minimum amount required for payout?",
+      "a": "No, there is no minimum amount required for payout. You can request a payout at any time.",
+      "url": "/komashi-docs/resources/faq/minimum-payout-threshold"
+    }
+  ],
+  "dashboard": [
+    {
+      "q": "Where can I see my current balance?",
+      "a": "In the Dashboard section, you can see your Total revenue, Total transactions, Total customers and Average order value.",
+      "url": "/komashi-docs/resources/faq/current-balance"
+    }
+  ],
+  "payment-methods": [
+    {
+      "q": "I can’t find the payment provider I used before. What can I do?",
+      "a": "You can request a new payment provider. Go to Settings → Payment Methods and click the Add Payment Method button. Then, select the Request new payment provider option and fill in the form. We will review your request and get back to you as soon as po…",
+      "url": "/komashi-docs/resources/faq/missing-payment-provider"
+    },
+    {
+      "q": "What happens if a payout fails?",
+      "a": "If a payout fails, you need to get in touch with your Payment Provider support to resolve the issue.",
+      "url": "/komashi-docs/resources/faq/failed-payout"
     }
   ]
 }
