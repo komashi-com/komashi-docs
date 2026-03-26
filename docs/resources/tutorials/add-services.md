@@ -60,4 +60,4 @@ The system will automatically create the service structure based on your inputs.
 
 After creating the service, you can proceed to configure:
 
-- Pricing ([Edit Pricing](/providers/resources/tutorials/edit-pricing))
+- Pricing ([Edit Pricing](/resources/tutorials/edit-pricing))

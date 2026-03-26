@@ -17,7 +17,7 @@ This guide explains how to edit the pricing of your services in the admin dashbo
 ![Admin Dashboard](/assets/images/admin-dashboard-services.png)
 
 If you have not added any services yet, click **Add New Service**.  
-(For details, see: [Add Services](/providers/resources/tutorials/add-services)
+(For details, see: [Add Services](/resources/tutorials/add-services)
 )
 
 ![Add New Service](/assets/images/add-new-service-button.png)
@@ -89,5 +89,5 @@ When you're done, click **Save** to apply the changes.
 
 ---
 
-If you need help adding services, visit: [Add Services](/providers/resources/tutorials/add-services)
+If you need help adding services, visit: [Add Services](/resources/tutorials/add-services)
   
