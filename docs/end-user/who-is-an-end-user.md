@@ -1,26 +1,45 @@
 ---
 sidebar_position: 1
-title: Who is a Provider?
+title: Who is an End User?
 tags: []
-question: "Who is a Provider?"
+question: "Who is an End User?"
 ---
-## Who is a Provider?
 
-A **provider** is a person or company that offers and sells services through the platform.
+## Who is an End User?
 
-If you have **any type of service that customers can buy or subscribe to**, you are considered a **provider**.
+An **end user** is a person who uses the services offered by providers on the Komashi platform.
 
-Providers can create and manage:
-- **services or products**
-- **pricing and subscriptions**
-- **customers**
-- **billing profiles**
-- **payments and payouts**
+If you **buy or subscribe to a service** through Komashi — whether through the Marketplace or through a provider's own product — you are an end user.
 
-A provider can be:
-- a **freelancer** selling a single service
-- a **company** offering multiple services
-- a **software provider** selling subscriptions
-- a **business** managing several products or brands
+---
 
-In short, a **provider is the seller in the system** — the one who creates services and offers them to customers.
+## What End Users Can Do
+
+End users can:
+
+- **Browse services** available from providers in the Marketplace
+- **Subscribe to plans** on a monthly or yearly basis
+- **Manage their subscriptions** — upgrade, downgrade, or cancel
+- **View and download invoices** for their purchases
+- **Connect with providers** to access their offerings
+
+---
+
+## How End Users Access the Platform
+
+End users can reach Komashi-powered services in two ways:
+
+- **Through the Marketplace** at [komashi.com](https://komashi.com) — browse all available providers
+- **Through a provider's own product** — if the provider has integrated the Komashi Widget or API into their platform
+
+An end user does not need to know they are using Komashi. They interact with the provider's service, and Komashi works in the background.
+
+---
+
+## End Users vs. Providers
+
+The difference is simple: **providers create and sell services; end users buy and use them.**
+
+An end user can also be a provider — for example, a freelancer who buys tools from one provider while selling their own services to other customers.
+
+In short, **end users are at the heart of the platform** — everything providers build and partners refer ultimately serves them.

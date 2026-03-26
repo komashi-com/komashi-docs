@@ -1,4 +1,23 @@
 {
+  "Support": [
+    {
+      "q": "How can I report a problem or bug?",
+      "a": "Report an Issue Have you encountered a problem while using the platform? You can report issues directly to our support team. --- How to Report a Problem 1. Go to the Komashi Help Center. 2. Select the Support and Chat option. 3. Describe the issue yo…",
+      "url": "/komashi-docs/end-user/report-issue"
+    }
+  ],
+  "Customers": [
+    {
+      "q": "How can I report a problem or bug?",
+      "a": "Report an Issue Have you encountered a problem while using the platform? You can report issues directly to our support team. --- How to Report a Problem 1. Go to the Komashi Help Center. 2. Select the Support and Chat option. 3. Describe the issue yo…",
+      "url": "/komashi-docs/end-user/report-issue"
+    },
+    {
+      "q": "Where can I find my customers?",
+      "a": "Customers This guide explains where and how you can view and manage your customers as a provider. --- Accessing Customers 1. Log in to the Komashi Control Center. 2. Select the provider whose customers you want to view. 3. From the left-side navigati…",
+      "url": "/komashi-docs/provider/customers"
+    }
+  ],
   "affiliate-system": [
     {
       "q": "How affiliate system works?",
@@ -48,110 +67,6 @@
       "url": "/komashi-docs/partner/reward-logic"
     }
   ],
-  "Support": [
-    {
-      "q": "How can I report a problem or bug?",
-      "a": "Report an Issue Have you encountered a problem while using the platform? You can report issues directly to our support team. --- How to Report a Problem 1. Go to the Komashi Help Center. 2. Select the Support and Chat option. 3. Describe the issue yo…",
-      "url": "/komashi-docs/end-user/report-issue"
-    }
-  ],
-  "Customers": [
-    {
-      "q": "How can I report a problem or bug?",
-      "a": "Report an Issue Have you encountered a problem while using the platform? You can report issues directly to our support team. --- How to Report a Problem 1. Go to the Komashi Help Center. 2. Select the Support and Chat option. 3. Describe the issue yo…",
-      "url": "/komashi-docs/end-user/report-issue"
-    },
-    {
-      "q": "Where can I find my customers?",
-      "a": "Customers This guide explains where and how you can view and manage your customers as a provider. --- Accessing Customers 1. Log in to the Komashi Control Center. 2. Select the provider whose customers you want to view. 3. From the left-side navigati…",
-      "url": "/komashi-docs/provider/customers"
-    }
-  ],
-  "invoice-method-install": [
-    {
-      "q": "How do I add invoicing provider?",
-      "a": "Add Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invo…",
-      "url": "/komashi-docs/resources/tutorials/add-invoicing-provider"
-    },
-    {
-      "q": "How do I add invoicing provider?",
-      "a": "Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invoicin…",
-      "url": "/komashi-docs/provider/Settings/09invoicing-providers"
-    }
-  ],
-  "invoice-methods": [
-    {
-      "q": "Can I modify my billing details later?",
-      "a": "Yes, you can modify your billing details later. Go to Settings → Financial/Settings and click the Edit Details button to modify your billing details.",
-      "url": "/komashi-docs/resources/faq/billing-data-modification"
-    },
-    {
-      "q": "Can I provide foreign billing details?",
-      "a": "Sure, you can provide foreign billing details. Go to Settings → Financial/Settings and click the Edit Details button to provide your billing details.",
-      "url": "/komashi-docs/resources/faq/foreign-billing-details"
-    },
-    {
-      "q": "How do I add invoicing provider?",
-      "a": "Add Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invo…",
-      "url": "/komashi-docs/resources/tutorials/add-invoicing-provider"
-    },
-    {
-      "q": "How do I add invoicing provider?",
-      "a": "Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invoicin…",
-      "url": "/komashi-docs/provider/Settings/09invoicing-providers"
-    },
-    {
-      "q": "Is there an invoice template or sample available?",
-      "a": "No, there is no invoice template or sample available. Choose the invoice method that suits you best during registration. Only the billing provider you select will be used.",
-      "url": "/komashi-docs/resources/faq/invoice-template"
-    },
-    {
-      "q": "When do I need to provide billing details – during registration or before payout?",
-      "a": "You can provide billing details during registration or before payout. Go to Settings → Financial/Settings and click the Edit Details button to provide your billing details. Important: If you don't provide billing details, you won't receive payouts.",
-      "url": "/komashi-docs/resources/faq/billing-data-timing"
-    }
-  ],
-  "payment-method-install": [
-    {
-      "q": "How do I add payment provider?",
-      "a": "Add Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment prov…",
-      "url": "/komashi-docs/resources/tutorials/add-payment-provider"
-    },
-    {
-      "q": "How do I add payment provider?",
-      "a": "Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment provider…",
-      "url": "/komashi-docs/provider/Settings/08payment-providers"
-    }
-  ],
-  "payment-method": [
-    {
-      "q": "How do I add payment provider?",
-      "a": "Add Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment prov…",
-      "url": "/komashi-docs/resources/tutorials/add-payment-provider"
-    },
-    {
-      "q": "How do I add payment provider?",
-      "a": "Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment provider…",
-      "url": "/komashi-docs/provider/Settings/08payment-providers"
-    }
-  ],
-  "provider-services": [
-    {
-      "q": "How can I delete my service?",
-      "a": "Go to Manage Services and choose the service you want to delete. Click the ... button. Then click Delete.",
-      "url": "/komashi-docs/resources/faq/delete-a-service"
-    },
-    {
-      "q": "How do I add services?",
-      "a": "Add Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/admin-…",
-      "url": "/komashi-docs/resources/tutorials/add-services"
-    },
-    {
-      "q": "How do I add services?",
-      "a": "Manage Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/adm…",
-      "url": "/komashi-docs/provider/Settings/03manage-services"
-    }
-  ],
   "provider-basic-settings": [
     {
       "q": "Can I change my logo?",
@@ -166,17 +81,12 @@
     {
       "q": "How can I edit my basic settings?",
       "a": "Basic Settings This guide explains how to configure the basic settings of your provider account in the Admin Dashboard. 1. Access the Admin Dashboard Log in to the Admin Dashboard. ![Admin Dashboard](/assets/images/admin-dashboard-settings.png) 2. Op…",
-      "url": "/komashi-docs/resources/tutorials/basic-settings"
+      "url": "/komashi-docs/provider/Settings/01basic"
     },
     {
       "q": "How can I edit my basic settings?",
       "a": "Basic Settings This guide explains how to configure the basic settings of your provider account in the Admin Dashboard. 1. Access the Admin Dashboard Log in to the Admin Dashboard. ![Admin Dashboard](/assets/images/admin-dashboard-settings.png) 2. Op…",
-      "url": "/komashi-docs/provider/Settings/01basic"
-    },
-    {
-      "q": "How do I add services?",
-      "a": "Add Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/admin-…",
-      "url": "/komashi-docs/resources/tutorials/add-services"
+      "url": "/komashi-docs/resources/tutorials/basic-settings"
     },
     {
       "q": "How do I add services?",
@@ -184,14 +94,19 @@
       "url": "/komashi-docs/provider/Settings/03manage-services"
     },
     {
-      "q": "How do I add user?",
-      "a": "Add User You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your account. --- 2.…",
-      "url": "/komashi-docs/resources/tutorials/add-user"
+      "q": "How do I add services?",
+      "a": "Add Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/admin-…",
+      "url": "/komashi-docs/resources/tutorials/add-services"
     },
     {
       "q": "How do I add user?",
       "a": "User and Permissions You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your acco…",
       "url": "/komashi-docs/provider/Settings/06user-and-permissions"
+    },
+    {
+      "q": "How do I add user?",
+      "a": "Add User You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your account. --- 2.…",
+      "url": "/komashi-docs/resources/tutorials/add-user"
     },
     {
       "q": "Is it mandatory to provide company billing details?",
@@ -204,62 +119,43 @@
       "url": "/komashi-docs/resources/faq/account-deletion"
     }
   ],
-  "permission-settings": [
+  "provider-advanced-settings": [
     {
-      "q": "How do I add user?",
-      "a": "Add User You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your account. --- 2.…",
-      "url": "/komashi-docs/resources/tutorials/add-user"
+      "q": "How can I delet a service?",
+      "a": "Provider Rules Plan Management Configure how customers can modify their subscription plans. Allow Plan Upgrades and Downgrades When enabled, both customers and administrators can switch between available plans. This allows flexibility for scaling up…",
+      "url": "/komashi-docs/provider/Settings/02provider-rules"
     },
     {
-      "q": "How do I add user?",
-      "a": "User and Permissions You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your acco…",
-      "url": "/komashi-docs/provider/Settings/06user-and-permissions"
+      "q": "How can I delet a service?",
+      "a": "Provider Rules Plan Management Configure how customers can modify their subscription plans. Allow Plan Upgrades and Downgrades When enabled, both customers and administrators can switch between available plans. This allows flexibility for scaling up…",
+      "url": "/komashi-docs/resources/tutorials/provider-rules"
+    },
+    {
+      "q": "How can I set up Google Analytics?",
+      "a": "Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update your Googl…",
+      "url": "/komashi-docs/provider/Settings/13analytics"
+    },
+    {
+      "q": "How can I set up Google Analytics?",
+      "a": "Set Up Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update you…",
+      "url": "/komashi-docs/resources/tutorials/set-up-analytics"
     }
   ],
-  "webhook-settings": [
+  "provider-services": [
     {
-      "q": "How do I add webhooks?",
-      "a": "Webhooks Webhooks allow your system to receive real-time notifications whenever specific events occur in your account —for example, when a new subscription is created, a payment is processed, or an invoice is issued. --- Create a New Webhook Click Ne…",
-      "url": "/komashi-docs/resources/tutorials/add-webhooks"
+      "q": "How can I delete my service?",
+      "a": "Go to Manage Services and choose the service you want to delete. Click the ... button. Then click Delete.",
+      "url": "/komashi-docs/resources/faq/delete-a-service"
     },
     {
-      "q": "How do I add webhooks?",
-      "a": "Webhooks Webhooks allow your system to receive real-time notifications whenever specific events occur in your account —for example, when a new subscription is created, a payment is processed, or an invoice is issued. --- Create a New Webhook Click Ne…",
-      "url": "/komashi-docs/provider/Settings/11webhooks"
-    }
-  ],
-  "widget-settings": [
-    {
-      "q": "How do I add widget?",
-      "a": "Add Widget In this guide, we will show you how to add a widget to your website. 1. Access Widget Settings Navigate to: Settings → Widget Settings Here you can view and manage all existing widgets connected to your provider account. --- 2. Add a New W…",
-      "url": "/komashi-docs/resources/tutorials/add-widget"
+      "q": "How do I add services?",
+      "a": "Manage Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/adm…",
+      "url": "/komashi-docs/provider/Settings/03manage-services"
     },
     {
-      "q": "How do I add widget?",
-      "a": "Widget In this guide, we will show you how to add a widget to your website. 1. Access Widget Settings Navigate to: Settings → Widget Settings Here you can view and manage all existing widgets connected to your provider account. --- 2. Add a New Widge…",
-      "url": "/komashi-docs/provider/Settings/12widgets"
-    },
-    {
-      "q": "How do widgets work?",
-      "a": "You can use Komashi in your website as a widget. You can find the widget code in the Settings → Widget Settings section. You can customize the widget to match your website's design. You can also choose the widget's position on your website.",
-      "url": "/komashi-docs/resources/faq/widget-functionality"
-    }
-  ],
-  "api-settings": [
-    {
-      "q": "How can I modify API key permissions?",
-      "a": "In the API Settings section, you can modify the permissions of your API keys. Click on the API key you want to modify and select the permissions you want to modify. Choose which permissions this API key should have. Permissions control what actions t…",
-      "url": "/komashi-docs/resources/faq/api-key-permissions"
-    },
-    {
-      "q": "How do I create API key?",
-      "a": "Create API Key API tokens allow third-party services to authenticate with the platform on your behalf. --- API Tokens Overview API tokens provide secure access for external systems, integrations, and automation scripts. Each token can be assigned spe…",
-      "url": "/komashi-docs/resources/tutorials/api-tokens"
-    },
-    {
-      "q": "How do I create API key?",
-      "a": "Create API Key API tokens allow third-party services to authenticate with the platform on your behalf. --- API Tokens Overview API tokens provide secure access for external systems, integrations, and automation scripts. Each token can be assigned spe…",
-      "url": "/komashi-docs/provider/Settings/10api"
+      "q": "How do I add services?",
+      "a": "Add Services This guide explains how to add a new service in the Admin Dashboard. --- 1. Access the Admin Dashboard 1. Log in to the Admin Dashboard. 2. From the left sidebar, click Services → Manage Services. ![Admin Dashboard](/assets/images/admin-…",
+      "url": "/komashi-docs/resources/tutorials/add-services"
     }
   ],
   "coupon-settings": [
@@ -271,17 +167,41 @@
     {
       "q": "How do I Create Coupon?",
       "a": "Coupon Management This guide explains how to create, edit, and delete discount coupons in the Admin Dashboard. --- 1. Access the Admin Dashboard Log in to the Admin Dashboard. ![Admin Dashboard](/assets/images/admin-dashboard-services.png) --- 2. Ope…",
-      "url": "/komashi-docs/resources/tutorials/coupon-management"
+      "url": "/komashi-docs/provider/Settings/04coupon-management"
     },
     {
       "q": "How do I Create Coupon?",
       "a": "Coupon Management This guide explains how to create, edit, and delete discount coupons in the Admin Dashboard. --- 1. Access the Admin Dashboard Log in to the Admin Dashboard. ![Admin Dashboard](/assets/images/admin-dashboard-services.png) --- 2. Ope…",
-      "url": "/komashi-docs/provider/Settings/04coupon-management"
+      "url": "/komashi-docs/resources/tutorials/coupon-management"
     },
     {
       "q": "I don’t want to delete a coupon. Is it possible to disable it?",
       "a": "Go to Manage Coupons and click the Edit button next to the coupon you want to disable. Then click on Disable this coupon button. Click on Update Coupon button to save your changes.",
       "url": "/komashi-docs/resources/faq/disable-coupon"
+    }
+  ],
+  "qr-settings": [
+    {
+      "q": "How does the QR code verification system work?",
+      "a": "QR Code Settings Enable QR-based verification for non-digital services (e.g. in-person sessions, entries, classes, on-site usage). Enable QR system Customers can present a QR code, and providers can scan it with a phone (built-in camera/QR reader) to…",
+      "url": "/komashi-docs/provider/Settings/05qr-code-settings"
+    },
+    {
+      "q": "How does the QR code verification system work?",
+      "a": "QR Code Verification System Enable QR-based verification for non-digital services (e.g. in-person sessions, entries, classes, on-site usage). Enable QR system Customers can present a QR code, and providers can scan it with a phone (built-in camera/QR…",
+      "url": "/komashi-docs/resources/tutorials/qr-code-verifycation-system"
+    }
+  ],
+  "permission-settings": [
+    {
+      "q": "How do I add user?",
+      "a": "User and Permissions You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your acco…",
+      "url": "/komashi-docs/provider/Settings/06user-and-permissions"
+    },
+    {
+      "q": "How do I add user?",
+      "a": "Add User You can add users to your provider account to help you manage your services. --- 1. Access Users and permissions Navigate to: Settings → Users and permissions Here you can view and manage all existing users connected to your account. --- 2.…",
+      "url": "/komashi-docs/resources/tutorials/add-user"
     }
   ],
   "financial-settings": [
@@ -293,12 +213,12 @@
     {
       "q": "Can I edit default Currency?",
       "a": "Financial Settings Manage currency and payment preferences. --- Default Currency Primary currency for billing and transactions. EUR Update Currency This currency will be used as the default for all new services and transactions. Default Currency EUR…",
-      "url": "/komashi-docs/resources/tutorials/financial-settings"
+      "url": "/komashi-docs/provider/Settings/07settings"
     },
     {
       "q": "Can I edit default Currency?",
       "a": "Financial Settings Manage currency and payment preferences. --- Default Currency Primary currency for billing and transactions. EUR Update Currency This currency will be used as the default for all new services and transactions. Default Currency EUR…",
-      "url": "/komashi-docs/provider/Settings/07settings"
+      "url": "/komashi-docs/resources/tutorials/financial-settings"
     },
     {
       "q": "Can I edit pricing after I set up a service?",
@@ -351,38 +271,118 @@
       "url": "/komashi-docs/resources/faq/billing-data-timing"
     }
   ],
-  "provider-advanced-settings": [
+  "payment-method-install": [
     {
-      "q": "How can I delet a service?",
-      "a": "Provider Rules Plan Management Configure how customers can modify their subscription plans. Allow Plan Upgrades and Downgrades When enabled, both customers and administrators can switch between available plans. This allows flexibility for scaling up…",
-      "url": "/komashi-docs/resources/tutorials/provider-rules"
+      "q": "How do I add payment provider?",
+      "a": "Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment provider…",
+      "url": "/komashi-docs/provider/Settings/08payment-providers"
     },
     {
-      "q": "How can I delet a service?",
-      "a": "Provider Rules Plan Management Configure how customers can modify their subscription plans. Allow Plan Upgrades and Downgrades When enabled, both customers and administrators can switch between available plans. This allows flexibility for scaling up…",
-      "url": "/komashi-docs/provider/Settings/02provider-rules"
-    },
-    {
-      "q": "How can I set up Google Analytics?",
-      "a": "Set Up Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update you…",
-      "url": "/komashi-docs/resources/tutorials/set-up-analytics"
-    },
-    {
-      "q": "How can I set up Google Analytics?",
-      "a": "Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update your Googl…",
-      "url": "/komashi-docs/provider/Settings/13analytics"
+      "q": "How do I add payment provider?",
+      "a": "Add Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment prov…",
+      "url": "/komashi-docs/resources/tutorials/add-payment-provider"
     }
   ],
-  "qr-settings": [
+  "payment-method": [
     {
-      "q": "How does the QR code verification system work?",
-      "a": "QR Code Verification System Enable QR-based verification for non-digital services (e.g. in-person sessions, entries, classes, on-site usage). Enable QR system Customers can present a QR code, and providers can scan it with a phone (built-in camera/QR…",
-      "url": "/komashi-docs/resources/tutorials/qr-code-verifycation-system"
+      "q": "How do I add payment provider?",
+      "a": "Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment provider…",
+      "url": "/komashi-docs/provider/Settings/08payment-providers"
     },
     {
-      "q": "How does the QR code verification system work?",
-      "a": "QR Code Settings Enable QR-based verification for non-digital services (e.g. in-person sessions, entries, classes, on-site usage). Enable QR system Customers can present a QR code, and providers can scan it with a phone (built-in camera/QR reader) to…",
-      "url": "/komashi-docs/provider/Settings/05qr-code-settings"
+      "q": "How do I add payment provider?",
+      "a": "Add Payment Provider Manage and configure your available payment providers in the Financial Settings section. --- 1. Access Payment Providers Navigate to: Settings → Financial → Payment Providers Here you can view and manage all existing payment prov…",
+      "url": "/komashi-docs/resources/tutorials/add-payment-provider"
+    }
+  ],
+  "invoice-method-install": [
+    {
+      "q": "How do I add invoicing provider?",
+      "a": "Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invoicin…",
+      "url": "/komashi-docs/provider/Settings/09invoicing-providers"
+    },
+    {
+      "q": "How do I add invoicing provider?",
+      "a": "Add Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invo…",
+      "url": "/komashi-docs/resources/tutorials/add-invoicing-provider"
+    }
+  ],
+  "invoice-methods": [
+    {
+      "q": "Can I modify my billing details later?",
+      "a": "Yes, you can modify your billing details later. Go to Settings → Financial/Settings and click the Edit Details button to modify your billing details.",
+      "url": "/komashi-docs/resources/faq/billing-data-modification"
+    },
+    {
+      "q": "Can I provide foreign billing details?",
+      "a": "Sure, you can provide foreign billing details. Go to Settings → Financial/Settings and click the Edit Details button to provide your billing details.",
+      "url": "/komashi-docs/resources/faq/foreign-billing-details"
+    },
+    {
+      "q": "How do I add invoicing provider?",
+      "a": "Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invoicin…",
+      "url": "/komashi-docs/provider/Settings/09invoicing-providers"
+    },
+    {
+      "q": "How do I add invoicing provider?",
+      "a": "Add Invoicing Provider Manage and configure your available invoicing providers in the Financial Settings section. --- 1. Access Invoicing Providers Navigate to: Settings → Financial → Invoicing Providers Here you can view and manage all existing invo…",
+      "url": "/komashi-docs/resources/tutorials/add-invoicing-provider"
+    },
+    {
+      "q": "Is there an invoice template or sample available?",
+      "a": "No, there is no invoice template or sample available. Choose the invoice method that suits you best during registration. Only the billing provider you select will be used.",
+      "url": "/komashi-docs/resources/faq/invoice-template"
+    },
+    {
+      "q": "When do I need to provide billing details – during registration or before payout?",
+      "a": "You can provide billing details during registration or before payout. Go to Settings → Financial/Settings and click the Edit Details button to provide your billing details. Important: If you don't provide billing details, you won't receive payouts.",
+      "url": "/komashi-docs/resources/faq/billing-data-timing"
+    }
+  ],
+  "api-settings": [
+    {
+      "q": "How can I modify API key permissions?",
+      "a": "In the API Settings section, you can modify the permissions of your API keys. Click on the API key you want to modify and select the permissions you want to modify. Choose which permissions this API key should have. Permissions control what actions t…",
+      "url": "/komashi-docs/resources/faq/api-key-permissions"
+    },
+    {
+      "q": "How do I create API key?",
+      "a": "Create API Key API tokens allow third-party services to authenticate with the platform on your behalf. --- API Tokens Overview API tokens provide secure access for external systems, integrations, and automation scripts. Each token can be assigned spe…",
+      "url": "/komashi-docs/provider/Settings/10api"
+    },
+    {
+      "q": "How do I create API key?",
+      "a": "Create API Key API tokens allow third-party services to authenticate with the platform on your behalf. --- API Tokens Overview API tokens provide secure access for external systems, integrations, and automation scripts. Each token can be assigned spe…",
+      "url": "/komashi-docs/resources/tutorials/api-tokens"
+    }
+  ],
+  "webhook-settings": [
+    {
+      "q": "How do I add webhooks?",
+      "a": "Webhooks Webhooks allow your system to receive real-time notifications whenever specific events occur in your account —for example, when a new subscription is created, a payment is processed, or an invoice is issued. --- Create a New Webhook Click Ne…",
+      "url": "/komashi-docs/provider/Settings/11webhooks"
+    },
+    {
+      "q": "How do I add webhooks?",
+      "a": "Webhooks Webhooks allow your system to receive real-time notifications whenever specific events occur in your account —for example, when a new subscription is created, a payment is processed, or an invoice is issued. --- Create a New Webhook Click Ne…",
+      "url": "/komashi-docs/resources/tutorials/add-webhooks"
+    }
+  ],
+  "widget-settings": [
+    {
+      "q": "How do I add widget?",
+      "a": "Widget In this guide, we will show you how to add a widget to your website. 1. Access Widget Settings Navigate to: Settings → Widget Settings Here you can view and manage all existing widgets connected to your provider account. --- 2. Add a New Widge…",
+      "url": "/komashi-docs/provider/Settings/12widgets"
+    },
+    {
+      "q": "How do I add widget?",
+      "a": "Add Widget In this guide, we will show you how to add a widget to your website. 1. Access Widget Settings Navigate to: Settings → Widget Settings Here you can view and manage all existing widgets connected to your provider account. --- 2. Add a New W…",
+      "url": "/komashi-docs/resources/tutorials/add-widget"
+    },
+    {
+      "q": "How do widgets work?",
+      "a": "You can use Komashi in your website as a widget. You can find the widget code in the Settings → Widget Settings section. You can customize the widget to match your website's design. You can also choose the widget's position on your website.",
+      "url": "/komashi-docs/resources/faq/widget-functionality"
     }
   ],
   "analytic-settings": [
@@ -403,13 +403,13 @@
     },
     {
       "q": "How can I set up Google Analytics?",
-      "a": "Set Up Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update you…",
-      "url": "/komashi-docs/resources/tutorials/set-up-analytics"
+      "a": "Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update your Googl…",
+      "url": "/komashi-docs/provider/Settings/13analytics"
     },
     {
       "q": "How can I set up Google Analytics?",
-      "a": "Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update your Googl…",
-      "url": "/komashi-docs/provider/Settings/13analytics"
+      "a": "Set Up Analytics Configure provider-specific Google Analytics and Microsoft Clarity tracking IDs. --- Google Analytics Track visitor activity with a Google Analytics Measurement ID (for example: G-XXXXXXXXXX). Click Edit Tracking to add or update you…",
+      "url": "/komashi-docs/resources/tutorials/set-up-analytics"
     }
   ],
   "subscription-details": [
